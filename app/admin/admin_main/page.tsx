@@ -2,9 +2,9 @@ import React from 'react';
 
 const AdminMainPage = () => {
     return (
-        <div>
+        <main className='admin-main'>
             
-        </div>
+        </main>
     );
 };
 
